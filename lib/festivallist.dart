@@ -1,0 +1,111 @@
+
+List festival=[
+  {
+    'Festival name' : 'Diwali',
+    'Text': 'Create your Diwali Templates',
+    'Images' : '',
+    'Color' : 'Blue',
+  },
+  {
+    'Festival name' : 'Raksha Bandhan',
+    'Text': 'Create your Raksha Bandhan Templates',
+    'Images' : '',
+    'Color' : 'Green',
+  },
+  {
+    'Festival name' : 'Makar Sakranti',
+    'Text': 'Create your Makar Sakranti Templates',
+    'Images' : '',
+    'Color' : 'Yellow',
+  },
+  {
+    'Festival name' : 'Pongal',
+    'Text': 'Create your Pongal Templates',
+    'Images' : '',
+    'Color' : 'Brown',
+  },
+  {
+    'Festival name' : 'Basant Panchami',
+    'Text': 'Create your Basant Panchami Templates',
+    'Images' : '',
+    'Color' : 'Orange',
+  },
+  {
+    'Festival name' : 'Maha Shivratri',
+    'Text': 'Create your Maha Shivratri Templates',
+    'Images' : '',
+    'Color' : 'Black',
+  },
+  {
+    'Festival name' : 'Ganesh Chaturthi',
+    'Text': 'Create your Ganesh Chaturthi Templates',
+    'Images' : '',
+    'Color' : 'Grey',
+  },
+  {
+    'Festival name' : 'Navratri',
+    'Text': 'Create your Navratri Templates',
+    'Images' : '',
+    'Color' : 'Pink',
+  },
+  {
+    'Festival name' : 'Holi',
+    'Text': 'Create your holi Templates',
+    'Images' : '',
+    'Color' : 'Blue',
+  },
+  {
+    'Festival name' : 'Bhai dhuj',
+    'Text': 'Create your Bhai dhuj Templates',
+    'Images' : '',
+    'Color' : 'Red',
+  },
+  {
+    'Festival name' : 'Independence Day',
+    'Text': 'Create your Independence Day Templates',
+    'Images' : '',
+    'Color' : 'Yellow',
+  },
+  {
+    'Festival name' : 'Republic Day',
+    'Text': 'Create your Republic Day Templates',
+    'Images' : '',
+    'Color' : 'Orange',
+  },
+  {
+    'Festival name' : 'Krishna Janmashtami',
+    'Text': 'Create your Krishna Janmashtami Templates',
+    'Images' : '',
+    'Color' : 'Red',
+  },
+  {
+    'Festival name' : 'Dussera',
+    'Text': 'Create your Dussera Templates',
+    'Images' : '',
+    'Color' : 'Green',
+  },
+  {
+    'Festival name' : 'Gangaur',
+    'Text': 'Create your Gangaur Templates',
+    'Images' : '',
+    'Color' : 'Black',
+  },
+  {
+    'Festival name' : 'Ram Navami',
+    'Text': 'Create your Ram Navami Templates',
+    'Images' : '',
+    'Color' : 'Red',
+  },
+  {
+    'Festival name' : 'Saraswati Pooj',
+    'Text': 'Create your Saraswati pooja Templates',
+    'Images' : '',
+    'Color' : 'Red',
+  },
+  {
+    'Festival name' : 'Karwa Chauth',
+    'Text': 'Create your Karwa Chauth Templates',
+    'Images' : '',
+    'Color' : 'Red',
+  },
+];
